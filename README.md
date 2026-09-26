@@ -33,15 +33,7 @@ cd komeback
 
 Then just open `index.html` in any browser. That's it — no `npm install`, no server required.
 
-## 📌 Roadmap
 
-- [ ] Optional cloud sync (Supabase) for cross-device access
-- [ ] Google sign-in
-- [ ] Export insights as an image/PDF summary
-
-## 📄 License
-
-Personal project — not currently licensed for reuse. Feel free to fork for your own learning, but please don't republish it as your own.
 
 ---
 
